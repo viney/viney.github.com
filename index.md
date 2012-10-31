@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: viney的博客
+tagline: golang爱好者
 ---
 {% include JB/setup %}
 
