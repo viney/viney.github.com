@@ -38,7 +38,7 @@ Chrome插件下载：[All Cheat Sheets][4]
 - [HTML-DOM Cheat Sheet](http://overapi.com/html-dom/)
 - [mod_rewrite Cheat Sheet](http://overapi.com/mod_rewrite/)
 
-[BeiYuu]:    http://beiyuu.com  "BeiYuu"
+[Viney]:    http://viney.github.com  "Viney"
 [1]:    {{ page.url}}  ({{ page.title }})
 [2]:    http://overapi.com  (OverAPI - Collecting all the cheat sheets)
 [3]:    http://movie.douban.com/subject/1397546/ "Following"

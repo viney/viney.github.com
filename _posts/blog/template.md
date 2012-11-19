@@ -12,5 +12,5 @@ category: blog
 
 
 
-[BeiYuu]:    http://beiyuu.com  "BeiYuu"
+[Viney]:    http://viney.github.com  "Viney"
 [1]:    {{ page.url}}  ({{ page.title }})
