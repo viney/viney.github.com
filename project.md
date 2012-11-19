@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project
+title: 项目
 ---
 <div class="category">
     <ul>
