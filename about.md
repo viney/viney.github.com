@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Viney
+title: 关于
 ---
 # [Viney][]
 

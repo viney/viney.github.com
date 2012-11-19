@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wiki
+title: 百科
 ---
 <div class="wiki">
     <h2>Javascript</h2>
