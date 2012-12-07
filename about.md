@@ -4,7 +4,7 @@ title: 关于
 ---
 # [Viney][]
 
-您好，我是[Viney][]，欢迎光临我的博客，我是一名服务器开发工程师，曾就职于<a href="#" class="external" target="_blank">XX公司网</a>，目前在<a href="#" class="external" target="_blank">XX公司</a>。
+您好，我是[Viney][]，欢迎光临我的博客，我是一名服务器开发工程师，曾就职于<a href="#" class="external" target="_blank">XX公司</a>，目前在<a href="#" class="external" target="_blank">XX公司</a>。
 
 博客仍在不断完善中，感谢关注，如有问题可以给我<a href="" title="邮箱" onclick="alert('Viney Chow 在 Gmail，你懂得！');return false;">eMail</a>，或者在<a href="http://weibo.com/vineychow" title="我的闲言碎语" target="_blank" class="external">微博</a>关注我。
 
